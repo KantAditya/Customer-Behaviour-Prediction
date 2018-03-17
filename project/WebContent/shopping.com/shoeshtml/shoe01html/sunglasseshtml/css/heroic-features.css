@@ -1,0 +1,53 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-family: 'Montserrat';
+}
+
+header.masthead h1 {
+  font-size: 3rem;
+  line-height: 3rem;
+}
+
+header.masthead h2 {
+  font-size: 1.3rem;
+  font-family: 'Lato';
+}
+
+@media (min-width: 992px) {
+  header.masthead h1 {
+    font-size: 4.75em;
+    line-height: 4rem;
+  }
+  header.masthead h2 {
+    font-size: 1.75em;
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.copyright {
+  background-color: #1a252f;
+}

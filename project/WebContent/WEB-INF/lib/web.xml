@@ -1,0 +1,20 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>firstproject</servlet-name>  
+<servlet-class>consumer</servlet-class>
+<load-on-startup>0</load-on-startup>   
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>firstproject</servlet-name>  
+<url-pattern>/firstproject/consumer</url-pattern>  
+</servlet-mapping>  
+
+ <!--  <servlet>  
+<servlet-name>firstproject</servlet-name>  
+<servlet-class>consumer</servlet-class> 
+<load-on-startup>0</load-on-startup> 
+</servlet>  -->
+  
+</web-app>  
